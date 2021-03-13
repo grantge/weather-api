@@ -1,0 +1,45 @@
+* {
+   box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   margin: 0;
+}
+
+p {
+   margin: 0;
+}
+
+body {
+   background: black;
+}
+
+.card {
+   margin: 30px auto;
+}
+
+.card-header {
+   text-align: center;
+}
+
+.form-group {
+   padding: 0 30px;
+}
+
+.card-text {
+   margin: 0;
+   font-size: 20px;
+}
+
+.card-wind {
+   font-size: 18px;
+}
+
+.card-description {
+   font-size: 18px;
+}
